@@ -1,0 +1,125 @@
+{
+    "icons": [
+        {
+            "id": "1",
+            "name": "Just Dance 1",
+            "filename": "1.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Just Dance 2",
+            "filename": "2.png"
+        },
+        {
+            "id": "2014",
+            "name": "Just Dance 2014",
+            "filename": "2014.jpg"
+        },
+        {
+            "id": "2015",
+            "name": "Just Dance 2015",
+            "filename": "2015.jpg"
+        },
+        {
+            "id": "2016",
+            "name": "Just Dance 2016",
+            "filename": "2016.png"
+        },
+        {
+            "id": "2017",
+            "name": "Just Dance 2017",
+            "filename": "2017.jpg"
+        },
+        {
+            "id": "2018",
+            "name": "Just Dance 2018",
+            "filename": "2018.jpg"
+        },
+        {
+            "id": "2019",
+            "name": "Just Dance 2019",
+            "filename": "2019.png"
+        },
+        {
+            "id": "2020",
+            "name": "Just Dance 2020",
+            "filename": "2020.jpg"
+        },
+        {
+            "id": "2021",
+            "name": "Just Dance 2021",
+            "filename": "2021.jpg"
+        },
+        {
+            "id": "2022",
+            "name": "Just Dance 2022",
+            "filename": "2022.png"
+        },
+        {
+            "id": "2023",
+            "name": "Just Dance 2023 Edition",
+            "filename": "2023.png"
+        },
+		{
+            "id": "2024",
+            "name": "Just Dance 2024 Edition",
+            "filename": "2024.png"
+        },
+		{
+            "id": "other",
+            "name": "Other (game not listed here)",
+            "filename": "other.png"
+        },
+        {
+        {
+            "id": "3",
+            "name": "Just Dance 3",
+            "filename": "3.png"
+        },
+        {
+            "id": "4",
+            "name": "Just Dance 4",
+            "filename": "4.jpg"
+        },
+        {
+            "id": "china_or_something_idk",
+            "name": "Just Dance Unlimited China Exclusive",
+            "filename": "china_or_something_idk.png"
+        },
+        {
+            "id": "fanmade",
+            "name": "Fan made",
+            "filename": "fanmade.png"
+        },
+        {
+            "id": "mje",
+            "name": "Michael Jackson: The Experience",
+            "filename": "mje.png"
+        },
+        {
+            "id": "sendhelp",
+            "name": "The Smurfs Dance Party",
+            "filename": "sendhelp.png"
+        },
+        {
+            "id": "wii",
+            "name": "Just Dance Wii",
+            "filename": "wii.png"
+        },
+        {
+            "id": "wii2",
+            "name": "Just Dance Wii 2",
+            "filename": "wii2.png"
+        },
+        {
+            "id": "wiiu",
+            "name": "Just Dance Wii U",
+            "filename": "wiiu.png"
+        },
+        {
+            "id": "ykwd",
+            "name": "Yo-kai Watch Dance: Just Dance Special Version",
+            "filename": "ykwd.png"
+        }
+    ]
+}
