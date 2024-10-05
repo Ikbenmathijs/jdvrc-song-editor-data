@@ -10,6 +10,16 @@
             "name": "Just Dance 2",
             "filename": "2.png"
         },
+		{
+            "id": "3",
+            "name": "Just Dance 3",
+            "filename": "3.png"
+        },
+        {
+            "id": "4",
+            "name": "Just Dance 4",
+            "filename": "4.jpg"
+        },
         {
             "id": "2014",
             "name": "Just Dance 2014",
@@ -65,20 +75,15 @@
             "name": "Just Dance 2024 Edition",
             "filename": "2024.png"
         },
-	{
+        {
+            "id": "2025",
+            "name": "Just Dance 2025",
+            "filename": "2025.png"
+        },
+		{
             "id": "other",
             "name": "Other (game not listed here)",
             "filename": "other.png"
-        },
-        {
-            "id": "3",
-            "name": "Just Dance 3",
-            "filename": "3.png"
-        },
-        {
-            "id": "4",
-            "name": "Just Dance 4",
-            "filename": "4.jpg"
         },
         {
             "id": "china_or_something_idk",
@@ -119,6 +124,26 @@
             "id": "ykwd",
             "name": "Yo-kai Watch Dance: Just Dance Special Version",
             "filename": "ykwd.png"
+        },
+		{
+            "id": "dc1",
+            "name": "Dance Central 1",
+            "filename": "dc1.png"
+        },
+		{
+            "id": "dc2",
+            "name": "Dance Central 2",
+            "filename": "dc2.png"
+        },
+		{
+            "id": "dc3",
+            "name": "Dance Central 3",
+            "filename": "dc3.png"
+        },
+		{
+            "id": "dcs",
+            "name": "Dance Central Spotlight",
+            "filename": "dcs.png"
         }
     ]
 }
